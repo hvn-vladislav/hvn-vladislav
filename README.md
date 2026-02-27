@@ -9,7 +9,9 @@ I'm a full‑stack developer working across backend and frontend. I build web ap
 
 
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hvnvladislav@gmail.com) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) - https://t.me/hvn_vladislav 
+
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](#) - hvnvladislav@gmail.com
 
 
 ### 🔝 Top Contributed Repo
