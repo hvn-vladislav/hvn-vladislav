@@ -20,8 +20,5 @@ I'm a full‑stack developer working across backend and frontend. I build web ap
 ---
 [![](https://visitcount.itsvg.in/api?id=hvn-vladislav&icon=0&color=4)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/cw/hvnvladislav) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
